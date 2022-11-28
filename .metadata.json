@@ -1,5 +1,9 @@
 [
   {
+    "package": "figir",
+    "oncran": true
+  },
+  {
     "package": "syslognet",
     "oncran": true
   }
