@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "figir"]
 	path = figir
 	url = https://github.com/philaris/figir
-	shallow = true
-	registered = true
 [submodule "syslognet"]
 	path = syslognet
 	url = https://github.com/philaris/syslognet
-	shallow = true
-	registered = true
