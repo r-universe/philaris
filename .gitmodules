@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "afmpar"]
+	path = afmpar
+	url = https://github.com/philaris/afmpar
 [submodule "figir"]
 	path = figir
 	url = https://github.com/philaris/figir
